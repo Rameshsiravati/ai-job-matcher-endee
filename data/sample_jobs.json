@@ -1,0 +1,50 @@
+[
+  {
+    "id": "job_001",
+    "title": "Machine Learning Engineer",
+    "company": "TechCorp",
+    "description": "We are looking for an ML Engineer with experience in Python, TensorFlow or PyTorch, and deploying models to production. Experience with transformers, NLP, and vector databases is a big plus. You will design, train, and serve machine learning models at scale.",
+    "skills": ["Python", "TensorFlow", "PyTorch", "MLOps", "NLP"],
+    "location": "Bangalore"
+  },
+  {
+    "id": "job_002",
+    "title": "Backend Python Developer",
+    "company": "StartupXYZ",
+    "description": "Join our team as a Python backend developer. You will build REST APIs using FastAPI or Django, work with PostgreSQL and Redis, and deploy services using Docker and Kubernetes. Experience with AWS or GCP is preferred.",
+    "skills": ["Python", "FastAPI", "Django", "PostgreSQL", "Docker", "AWS"],
+    "location": "Remote"
+  },
+  {
+    "id": "job_003",
+    "title": "Data Scientist",
+    "company": "DataInsights",
+    "description": "We need a Data Scientist to analyze large datasets, build predictive models, and generate business insights. Strong Python, Pandas, Scikit-learn, and SQL skills required. Experience with visualization tools like Tableau or Plotly is a plus.",
+    "skills": ["Python", "Pandas", "Scikit-learn", "SQL", "Tableau", "Statistics"],
+    "location": "Hyderabad"
+  },
+  {
+    "id": "job_004",
+    "title": "Full Stack Developer",
+    "company": "WebAgency",
+    "description": "Looking for a full stack developer proficient in React and Node.js. You will build responsive frontend interfaces and RESTful APIs. Experience with MongoDB, TypeScript, and CI/CD pipelines is expected.",
+    "skills": ["React", "Node.js", "TypeScript", "MongoDB", "CSS"],
+    "location": "Mumbai"
+  },
+  {
+    "id": "job_005",
+    "title": "DevOps Engineer",
+    "company": "CloudSystems",
+    "description": "Seeking a DevOps engineer to manage CI/CD pipelines, Kubernetes clusters, and cloud infrastructure. Strong expertise in Docker, Terraform, Jenkins, and monitoring tools like Prometheus and Grafana required.",
+    "skills": ["Docker", "Kubernetes", "Terraform", "Jenkins", "AWS", "Prometheus"],
+    "location": "Pune"
+  },
+  {
+    "id": "job_006",
+    "title": "AI Research Engineer",
+    "company": "ResearchLab",
+    "description": "We seek an AI Research Engineer to explore and implement state-of-the-art deep learning architectures. Responsibilities include running experiments, writing research papers, and implementing models in PyTorch. Strong math and statistics background required.",
+    "skills": ["Python", "PyTorch", "Deep Learning", "Mathematics", "Research", "LLMs"],
+    "location": "Chennai"
+  }
+]
